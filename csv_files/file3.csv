@@ -1,0 +1,14 @@
+movie_name,budget in (USD),release_date ,runtime,grade_certificate,person_fullname,role
+Jai Bhim,1.5 million ,2021-11-2,2h 44m,A,surya,lawyer
+Jai Bhim,1.5million ,2021-11-2,2h 44m,A,lijomd jose,tribal women
+Jai Bhim,1.5million ,2021-11-2,2h 44m,A,tj gnanavel,director
+The Shawshank Redemption ,25 million,1994-09-22,2h 22m,U,morgan freeman,narrator
+The Shawshank Redemption ,25 million,1994-09-22,2h 22m,U,frank darabont,director
+The Shawshank Redemption ,25 million,1994-09-22,2h 22m,U,tim robbins,prisoners 
+The Godfather,6 million,1972-03-24,2h 55m,UA,francis ford coppola,director
+The Godfather,6 million,1972-03-24,2h 55m,UA,marlon brando,don
+The Dark Knight,180 million,2008-07-18,2h 32m,UA,heath ledger,joker
+The Dark Knight,180 million,2008-07-18,2h 32m,UA,christopher Nolan,Director
+The Dark Knight,180 million,2008-07-18,2h 32m,UA,Christian Bale,Batman
+Schindler's List ,25 million,1994-02-4,3h 15m,UA,steven spielberg,director
+Schindler's List ,25 million,1994-02-4,3h 15m,UA,liam neeson,schindler

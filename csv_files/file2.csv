@@ -1,0 +1,13 @@
+movie_name,budget,release_date,runtime,grade_certificate,genre_type,description,Language_type,region
+Jai Bhim,1.5 million,2021-11-2,2h 44m,A,drama,legal drama,Tamil,India
+Jai Bhim,1.5million,2021-11-2,2h 44m,A,drama,legal drama,Telugu,India
+Jai Bhim,1.5million,2021-11-2,2h 44m,A,drama,legal drama,Hindi,India
+The Shawshank Redemption,25 million,1994-09-22,2h 22m,U,crime fiction,fictionalises crimes,English,North America
+The Shawshank Redemption,25 million,1994-09-22,2h 22m,U,prison,a straight prison,English,North America
+The Godfather,6 million,1972-03-24,2h 55m,UA,drama,a family drama,English,North America
+The Godfather,6 million,21972-03-24,2h 55m,UA,crime,extreme crime problems,Spanish,Spain
+The Dark Knight,180 million,2008-07-18,2h 32m,UA,war,war on terror,English,North America
+The Dark Knight,180 million,2008-07-18,2h 32m,UA,Thriller,a psycho thriller,Mandarin,China
+Schindler's List,25 million,1994-02-4,3h 15m,UA,Historic Drama,Epic historical drama,English,North America
+Schindler's List,25 million,1994-02-4,3h 15m,UA,Fiction,Historical fiction novel,German,German
+Schindler's List,25 million,1994-02-4,3h 15m,UA,Fiction,Historical fiction novel,Polish,Poland

@@ -1,0 +1,15 @@
+movie_name,budget in (USD),release_date ,runtime,grade_certificate,rating_company,r_description,production_name,headquarters_location,products,key_people
+Jai Bhim,1.5 million ,2021-11-2,2h 44m,A,IMDB,9.5/10,2D Entertainment ,Chennai,Flim Production ,Surya
+Jai Bhim,1.5million ,2021-11-2,2h 44m,A,Times of India,3.9/5,2D Entertainment ,Chennai,Distribution Records,Jyothika
+Jai Bhim,1.5million ,2021-11-2,2h 44m,A,Rotten Tomatoes ,93%,2D Entertainment ,Chennai,Flim Production ,Rajasekar Pandian
+The Shawshank Redemption ,25 million,1994-09-22,2h 22m,U,IMDB,9.3/10,Castle Rock Entertainment ,WestHollywood,Motion Pictures ,S Martin
+The Shawshank Redemption ,25 million,1994-09-22,2h 22m,U,Rotten Tomatoes ,91%,Castle Rock Entertainment ,WestHollywood,Motion Pictures ,S Martin
+The Shawshank Redemption ,25 million,1994-09-22,2h 22m,U,Metacritic,80%,Castle Rock Entertainment ,WestHollywood,Motion Pictures ,S Martin
+The Godfather,6 million,1972-03-24,2h 55m,UA,IMDB,9.2/10,Paramount Pictures Studios,LosAngeles,Motion Pictures ,Brian Robbins
+The Godfather,6 million,1972-03-24,2h 55m,UA,Commonsense Media,5.0/5,Alfran Productions,Spain,Motion Pictures ,Albert S Rubby
+ The Dark Knight,180 million,2008-07-18,2h 32m,UA,IMDB,9.0/10,Dc Comics,Burbank,Comics and Graphics ,Albert Warner
+ The Dark Knight,180 million,2008-07-18,2h 32m,UA,Rotten Tomatoes ,92%,Warner Bro's Pictures ,Burbank,Flims and Television ,Jack L Warner
+ The Dark Knight,180 million,2008-07-18,2h 32m,UA,Metacritic,84%,Warner Bro's Pictures ,Burbank,AnimatIon,Jack L Warner
+ Schindler's List ,25 million,1994-02-4,3h 15m,UA,IMDB,8.9/10,Universal Pictures,UniversalCity,Tv Shows,Donna Langley
+ Schindler's List ,25 million,1994-02-4,3h 15m,UA,IMDB,8.9/10,Universal Pictures,UniversalCity,Movies,Donna Langley
+ Schindler's List ,25 million,1994-02-4,3h 15m,UA,Rotten Tomatoes ,98%,Amblin Entertainment ,UniversalCity,Flims and Television ,Steven Spielberg
