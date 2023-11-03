@@ -1,1 +1,1 @@
-IMDB-Movie-Database 
+IMDB-MovieDatabase 
